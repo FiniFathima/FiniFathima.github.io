@@ -54,6 +54,3 @@ This portfolio showcases:
 
 
 ---
-
-
-You can now ask me to generate the remaining markdown files (`profile.md`, `education.md`, etc.) or I can generate all of them automatically.
